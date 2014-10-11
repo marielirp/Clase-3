@@ -1,3 +1,7 @@
+class Helo():
+    pass
+
+
 class Auto():
     """Esta clase va arrancar un auto segun su gasolina"""
     
