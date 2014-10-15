@@ -1,6 +1,6 @@
 class Auto():
     """Esta clase va arrancar un auto segun su gasolina"""
-    
+
     def __init__(self, gasolina):
         self.gasolina = gasolina
         print "Tenemos", gasolina, "litros"
@@ -34,9 +34,3 @@ mi_auto.moverse()
 mi_auto.moverse()
 mi_auto.moverse()
 mi_auto.moverse()
-
-
-
-
-
-    
